@@ -26,5 +26,11 @@ It periodically checks service availability and sends real-time Telegram alerts 
 2. Configure Telegram credentials (Bot Token, Chat ID)
 3. Activate the workflow
 
+   Security Note:
+This repository does not include any credentials.
+Telegram Bot Token and Chat ID must be configured manually
+after importing the workflow into n8n.
+
+
 ## Author
 Avishka Withanage
