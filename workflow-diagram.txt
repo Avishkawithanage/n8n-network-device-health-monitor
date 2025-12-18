@@ -1,0 +1,7 @@
+Schedule Trigger
+      ↓
+HTTP Request
+      ↓
+     IF
+      ↓
+   Telegram Alert
